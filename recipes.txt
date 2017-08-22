@@ -2,6 +2,9 @@ Welecome to the practise
 1.paneer
 2.chicken
 3.chowmin
+4.beans
+5.pizza
+
 
 
 Thank you :)
